@@ -151,7 +151,6 @@ int main() {
   // Test the fibonacci function
   for (int i = 0; i < 10; i++){
     int test = 0;
-    int test2;
     if(test2 == 0){
       cout << test2 << endl;
     }
