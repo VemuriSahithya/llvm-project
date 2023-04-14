@@ -153,6 +153,7 @@ int main() {
     int test = 0;
     if(test2 == 0){
       cout << test2 << endl;
+      cout << test << endl;
     }
   }
 }
